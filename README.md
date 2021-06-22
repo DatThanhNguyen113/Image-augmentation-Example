@@ -11,7 +11,7 @@ Normally, In object-detection task , you will need a large dataset to have a goo
       
   > Our target is create a new image base on existed image but have diferrent context, then copy same .xml file(labeling file) and rename it.
   
-  * Installation
+  * **Installation**
     
    1.1 Albumentations package
     
@@ -23,7 +23,7 @@ Normally, In object-detection task , you will need a large dataset to have a goo
    
    1.3 OpenCV
    
-   * Explain line-by-line
+   * **Explain line-by-line**
    
    1.1 Define image folder path
     
