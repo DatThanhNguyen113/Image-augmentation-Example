@@ -113,7 +113,7 @@ Normally, In object-detection task , you will need a large dataset to have a goo
    
    Finally, using OpenCV to write that file to current folder again
    
-   The reson I  use OpenCV to read and write image because it already installed when using Tensorflow or Pytorch to training object, but you can use different thing, as long as it can read and write image
+   The reson I  use OpenCV to read and write image because it already installed when using Tensorflow or Pytorch to training object, but you can use different thing, as long as it can read and write image. And that it, now you just access you folder and should see  new images and new .xml files 
    
    
 Happy Coding ! :)
